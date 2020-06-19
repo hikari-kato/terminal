@@ -34,6 +34,8 @@ Finderの🏠ユーザー名の場所が同じホームディレクトリです�
 参考：[Macのターミナルコマンド一覧（基本編）](https://qiita.com/ryouzi/items/f9dee1540a04a0bfb9a3)
 
 ## 気分が上がらないのは見た目のせい
+![ターミナル説明_03](https://user-images.githubusercontent.com/32893962/85101303-14cdc400-b23d-11ea-8658-de1cbc491109.png)
+
 普段使っているテキストエディターのように分かりやすい色やフォントに変更してみましょう。  
 ターミナルの環境設定で変更ができます。  
 人それぞれ好みもありますが、わたしはIcebergという暗色テーマにAdobeがコーディング用に作ったSource Han Code JPを使っています。  
